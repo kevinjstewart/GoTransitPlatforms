@@ -1,0 +1,6 @@
+framework module Pods_GoPlatforms {
+  umbrella header "Pods-GoPlatforms-umbrella.h"
+
+  export *
+  module * { export * }
+}
